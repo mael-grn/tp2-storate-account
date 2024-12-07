@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{151D2E53-A2C4-4D7D-83FE-D05416EBD58E}") = "tp2-storate-account", "tp2-storate-account\tp2-storate-account.deployproj", "{9B016FB1-2B2F-4DAA-9E7D-661D7727230D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9B016FB1-2B2F-4DAA-9E7D-661D7727230D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B016FB1-2B2F-4DAA-9E7D-661D7727230D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B016FB1-2B2F-4DAA-9E7D-661D7727230D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B016FB1-2B2F-4DAA-9E7D-661D7727230D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {48707650-8096-4884-98B0-DA318DDCD93C}
+	EndGlobalSection
+EndGlobal
